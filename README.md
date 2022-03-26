@@ -14,10 +14,10 @@ An Innovative ed-tech platform to in which we have integrated realtime Payment s
 [Padhai Path](https://padhai-path.netlify.app/create)
 
 ## Tech Stack we have used
-> Agora App Builder
-> HTML
-> CSS
-> React JS
-> Node JS
-> RazorPay API
-> Netlify
+* Agora App Builder
+* HTML
+* CSS
+* React JS
+* Node JS
+* RazorPay API
+* Netlify
