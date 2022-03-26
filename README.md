@@ -14,10 +14,18 @@ An Innovative ed-tech platform to in which we have integrated realtime Payment s
 [Padhai Path](https://padhai-path.netlify.app/create)
 
 ## Tech Stack we have used
-* Agora App Builder
+* Agora Appbuilder
 * HTML
 * CSS
 * React JS
 * Node JS
 * RazorPay API
 * Netlify
+
+## Agora Appbuilder Initialisation after creating its front-end and deploying it backend.
+
+> Instructions to run the project:
+* Open a terminal inside this folder
+* Run - npm i && npm start (You need nodejs v14.x installed on you system)
+* Select install through the CLI menu
+* Build for any supported platform
