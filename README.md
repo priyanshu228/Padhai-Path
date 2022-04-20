@@ -2,6 +2,8 @@
 An Innovative ed-tech platform to in which we have integrated realtime Payment system &amp; Innovative Game in which we have integrated science with Spiritual epics so that tutor can teach students with in more creative manner and build student interest
 Game Link: https://padhai-path.netlify.app/
 
+## Visit Frontend folder to check all frontend program codes 
+
 ## Special Features of Padhai Path:
 * Live Polling System
 * Video conferencing with both Private & Public Messaging systems
