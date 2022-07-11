@@ -16,7 +16,7 @@ Game Link: https://padhai-path.netlify.app/
 ## Website globally hosted link: 
 [Padhai Path](https://padhai-path.netlify.app/create)
 
-## Website for main Innovative website Integrated in Website: 
+## Website for main Innovative website Integrated in Website(Under Development phase): 
 [Main Innovation](https://mchemystery.web.app/)
 
 ## Tech Stack we have used
